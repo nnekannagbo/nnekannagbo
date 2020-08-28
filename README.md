@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾 Welcome! 
 
 ![bio](bio.png)
 
