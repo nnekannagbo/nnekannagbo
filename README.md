@@ -1,4 +1,4 @@
-### Hi there 👋🏾 Welcome! 
+### Hi there 👋🏾 Welcome. 
 
 [![Nneka Nnagbo](https://github.com/nnekannagbo/nnekannagbo/blob/master/bio.png?raw=true)](https://nneknnagbo.github.io)
 
