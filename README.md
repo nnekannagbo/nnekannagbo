@@ -1,6 +1,6 @@
 ### Greetings (◠‿◠✿)
 
-[![Nneka Nnagbo](https://github.com/nnekannagbo/nnekannagbo/blob/master/intro.png)](https://nnekannagbo.github.io)
+[![Nneka Nnagbo](https://github.com/nnekannagbo/nnekannagbo/blob/master/intro2.png)](https://nnekannagbo.github.io)
 
 <!--
 **nnekannagbo/nnekannagbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
